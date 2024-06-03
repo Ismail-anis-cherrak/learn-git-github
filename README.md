@@ -23,7 +23,7 @@ To get started with this repository, follow these steps:
   
 2. **Navigate to the Directory**: Change to the repository directory:
     ```bash
-    cd git-and-github-learning
+    cd learn-git-github
     ```
 3. **Explore the Resources**: Open the PDF files in each directory to start learning.
 
@@ -34,7 +34,7 @@ We welcome contributions to improve these learning materials. If you have sugges
 
 ## Contact
 
-If you have any questions or need further assistance, feel free to contact us at your-email@example.com.
+If you have any questions or need further assistance, feel free to contact us at ismailcherrak481@gmail.com
 
 Happy Learning!
 
